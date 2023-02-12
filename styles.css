@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(https://img2.freepng.es/20180406/zce/kisspng-lego-mindstorms-nxt-lego-mindstorms-ev3-robotics-robotics-5ac801e4e961f2.6142974715230571249559.jpg);
+}
+
+h1 {
+    font-size: larger;
+
+    color: rgb(0, 0, 0);
+    background-color: white;
+
+    height: fit-content;
+    width: fit-content;
+}
+
+p {
+    font-size: larger;
+
+    color: rgb(0, 0, 0);
+    background-color: white;
+
+    height: fit-content;
+    width: fit-content;
+}
+
+img {
+    height: 200px;
+}
